@@ -1,0 +1,10 @@
+PolicyTypeID,TypeName
+1,Life
+2,Health
+3,Auto
+4,Home
+5,Travel
+6,Business
+7,Fire
+8,Accident
+9,Disability

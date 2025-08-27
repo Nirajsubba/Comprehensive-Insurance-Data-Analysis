@@ -1,0 +1,5 @@
+CurrencyID,CurrencyName,ExchangeRate
+1,INR,1.0
+2,USD,83.0
+3,EUR,90.0
+4,GBP,100.0

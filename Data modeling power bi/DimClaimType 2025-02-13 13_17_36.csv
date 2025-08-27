@@ -1,0 +1,6 @@
+ClaimTypeID,ClaimType
+1,Accident
+2,Theft
+3,Fire
+4,Natural Disaster
+5,Liability

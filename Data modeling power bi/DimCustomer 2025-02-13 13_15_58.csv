@@ -1,0 +1,501 @@
+CustomerID,CustomerName,DateOfBirth,Gender,City,State
+1,Customer_1,1987-06-13,Female,Delhi,West Bengal
+2,Customer_2,2014-12-29,Female,Kolkata,Karnataka
+3,Customer_3,2017-12-09,Female,Delhi,Delhi
+4,Customer_4,2019-08-09,Female,Kolkata,West Bengal
+5,Customer_5,2007-06-26,Male,Mumbai,Delhi
+6,Customer_6,2006-08-19,Male,Mumbai,Maharashtra
+7,Customer_7,1972-12-07,Female,Chennai,Delhi
+8,Customer_8,1974-10-21,Female,Bangalore,Delhi
+9,Customer_9,2008-05-21,Male,Delhi,Karnataka
+10,Customer_10,1997-01-01,Male,Bangalore,Karnataka
+11,Customer_11,1971-09-18,Male,Chennai,West Bengal
+12,Customer_12,1994-06-06,Female,Mumbai,Karnataka
+13,Customer_13,2013-02-01,Male,Kolkata,Tamil Nadu
+14,Customer_14,1977-08-15,Female,Mumbai,Tamil Nadu
+15,Customer_15,1994-12-21,Male,Kolkata,Delhi
+16,Customer_16,1980-07-31,Male,Kolkata,Delhi
+17,Customer_17,1999-08-12,Female,Delhi,West Bengal
+18,Customer_18,1993-12-27,Female,Delhi,West Bengal
+19,Customer_19,2005-06-09,Female,Kolkata,Maharashtra
+20,Customer_20,1967-03-19,Male,Bangalore,Karnataka
+21,Customer_21,1961-02-26,Male,Delhi,Karnataka
+22,Customer_22,1975-01-20,Male,Chennai,West Bengal
+23,Customer_23,1975-04-15,Male,Kolkata,Delhi
+24,Customer_24,1965-12-27,Female,Mumbai,West Bengal
+25,Customer_25,1960-07-06,Male,Delhi,Maharashtra
+26,Customer_26,2017-02-28,Female,Kolkata,Tamil Nadu
+27,Customer_27,1997-12-03,Male,Delhi,Tamil Nadu
+28,Customer_28,2014-09-03,Female,Chennai,Karnataka
+29,Customer_29,1988-06-19,Female,Delhi,West Bengal
+30,Customer_30,2006-09-30,Female,Bangalore,Maharashtra
+31,Customer_31,2006-11-13,Male,Mumbai,Tamil Nadu
+32,Customer_32,2001-09-07,Female,Chennai,Tamil Nadu
+33,Customer_33,1992-05-03,Female,Delhi,Karnataka
+34,Customer_34,2006-07-28,Male,Kolkata,Tamil Nadu
+35,Customer_35,2020-01-02,Male,Kolkata,Delhi
+36,Customer_36,2011-01-05,Female,Chennai,Tamil Nadu
+37,Customer_37,1987-08-22,Female,Mumbai,West Bengal
+38,Customer_38,1981-06-21,Female,Delhi,Delhi
+39,Customer_39,1970-08-09,Female,Delhi,Maharashtra
+40,Customer_40,1991-01-18,Female,Mumbai,Delhi
+41,Customer_41,1968-09-21,Female,Delhi,West Bengal
+42,Customer_42,1999-12-25,Female,Bangalore,Delhi
+43,Customer_43,1996-10-21,Female,Mumbai,Karnataka
+44,Customer_44,2009-10-12,Male,Kolkata,Karnataka
+45,Customer_45,2002-08-19,Female,Chennai,Delhi
+46,Customer_46,2013-03-02,Female,Kolkata,Delhi
+47,Customer_47,2006-10-01,Male,Chennai,Karnataka
+48,Customer_48,2005-05-06,Male,Chennai,West Bengal
+49,Customer_49,1976-09-08,Male,Delhi,Maharashtra
+50,Customer_50,2010-11-09,Male,Bangalore,Tamil Nadu
+51,Customer_51,1964-04-24,Male,Kolkata,West Bengal
+52,Customer_52,2009-06-12,Male,Mumbai,Tamil Nadu
+53,Customer_53,1973-06-02,Female,Kolkata,Maharashtra
+54,Customer_54,1995-12-07,Male,Kolkata,Tamil Nadu
+55,Customer_55,2005-12-13,Male,Kolkata,Karnataka
+56,Customer_56,2000-10-17,Female,Delhi,West Bengal
+57,Customer_57,2007-01-12,Male,Kolkata,Karnataka
+58,Customer_58,1986-06-05,Female,Kolkata,Maharashtra
+59,Customer_59,2007-12-05,Female,Mumbai,Delhi
+60,Customer_60,1995-11-04,Male,Kolkata,Delhi
+61,Customer_61,1979-07-24,Female,Bangalore,Maharashtra
+62,Customer_62,2012-11-03,Female,Mumbai,Maharashtra
+63,Customer_63,1960-12-30,Female,Chennai,Tamil Nadu
+64,Customer_64,2013-03-12,Female,Kolkata,West Bengal
+65,Customer_65,1982-06-10,Male,Bangalore,Tamil Nadu
+66,Customer_66,2013-07-31,Female,Mumbai,Karnataka
+67,Customer_67,1991-10-08,Male,Chennai,Tamil Nadu
+68,Customer_68,1962-07-26,Male,Delhi,Karnataka
+69,Customer_69,1999-11-21,Male,Mumbai,Delhi
+70,Customer_70,2016-11-13,Male,Mumbai,Maharashtra
+71,Customer_71,1960-02-05,Female,Mumbai,Delhi
+72,Customer_72,1987-09-16,Male,Chennai,Delhi
+73,Customer_73,1974-07-31,Female,Mumbai,Delhi
+74,Customer_74,1988-05-08,Male,Bangalore,Karnataka
+75,Customer_75,1985-08-06,Male,Kolkata,Delhi
+76,Customer_76,1965-02-06,Female,Kolkata,Delhi
+77,Customer_77,1986-11-14,Female,Bangalore,West Bengal
+78,Customer_78,1992-07-28,Male,Chennai,Delhi
+79,Customer_79,2018-10-25,Male,Bangalore,Tamil Nadu
+80,Customer_80,1974-09-27,Female,Kolkata,Tamil Nadu
+81,Customer_81,2012-07-19,Female,Delhi,Karnataka
+82,Customer_82,1983-09-03,Male,Kolkata,Tamil Nadu
+83,Customer_83,1968-02-15,Male,Kolkata,Karnataka
+84,Customer_84,2014-04-22,Female,Delhi,West Bengal
+85,Customer_85,1977-04-28,Male,Kolkata,Karnataka
+86,Customer_86,1977-02-12,Male,Mumbai,West Bengal
+87,Customer_87,1977-02-12,Male,Mumbai,Delhi
+88,Customer_88,2008-08-29,Male,Mumbai,Tamil Nadu
+89,Customer_89,1969-04-11,Female,Kolkata,Karnataka
+90,Customer_90,1967-06-03,Male,Chennai,Karnataka
+91,Customer_91,2016-01-02,Male,Bangalore,Tamil Nadu
+92,Customer_92,2010-03-03,Male,Delhi,Maharashtra
+93,Customer_93,2014-09-10,Male,Chennai,Karnataka
+94,Customer_94,2002-03-17,Male,Kolkata,West Bengal
+95,Customer_95,2008-12-30,Male,Mumbai,Tamil Nadu
+96,Customer_96,1977-08-08,Female,Kolkata,Tamil Nadu
+97,Customer_97,2013-03-20,Male,Mumbai,Maharashtra
+98,Customer_98,2007-04-06,Male,Mumbai,Delhi
+99,Customer_99,2014-03-08,Male,Chennai,Delhi
+100,Customer_100,2008-06-23,Male,Chennai,Maharashtra
+101,Customer_101,2005-04-04,Male,Mumbai,Tamil Nadu
+102,Customer_102,2013-01-10,Female,Delhi,Tamil Nadu
+103,Customer_103,1993-09-16,Female,Chennai,Karnataka
+104,Customer_104,2002-02-17,Male,Mumbai,Delhi
+105,Customer_105,1962-02-04,Female,Bangalore,Tamil Nadu
+106,Customer_106,1989-06-21,Male,Chennai,Karnataka
+107,Customer_107,2013-01-02,Male,Kolkata,Maharashtra
+108,Customer_108,2010-10-03,Female,Kolkata,Karnataka
+109,Customer_109,1968-07-06,Male,Bangalore,Delhi
+110,Customer_110,1996-10-31,Female,Kolkata,West Bengal
+111,Customer_111,2006-09-01,Female,Mumbai,Maharashtra
+112,Customer_112,2011-01-13,Male,Chennai,Karnataka
+113,Customer_113,2017-09-23,Female,Bangalore,Maharashtra
+114,Customer_114,1990-03-02,Female,Mumbai,Tamil Nadu
+115,Customer_115,1987-05-15,Female,Delhi,Karnataka
+116,Customer_116,1998-10-21,Male,Mumbai,West Bengal
+117,Customer_117,1966-07-21,Female,Mumbai,Karnataka
+118,Customer_118,2000-06-10,Male,Mumbai,West Bengal
+119,Customer_119,1996-06-05,Male,Kolkata,Tamil Nadu
+120,Customer_120,1996-11-23,Female,Delhi,Maharashtra
+121,Customer_121,2012-02-20,Female,Delhi,Karnataka
+122,Customer_122,1976-07-04,Male,Delhi,Tamil Nadu
+123,Customer_123,2003-10-26,Female,Bangalore,Tamil Nadu
+124,Customer_124,1961-10-12,Male,Delhi,Karnataka
+125,Customer_125,1965-05-13,Female,Mumbai,Delhi
+126,Customer_126,2007-08-19,Male,Kolkata,Karnataka
+127,Customer_127,2017-03-11,Female,Bangalore,Tamil Nadu
+128,Customer_128,1983-07-20,Female,Bangalore,Karnataka
+129,Customer_129,1983-11-11,Female,Mumbai,Delhi
+130,Customer_130,1963-04-20,Male,Delhi,Tamil Nadu
+131,Customer_131,1996-05-26,Male,Chennai,Maharashtra
+132,Customer_132,1971-02-18,Female,Kolkata,Maharashtra
+133,Customer_133,1983-09-08,Female,Bangalore,West Bengal
+134,Customer_134,1968-03-29,Female,Bangalore,Maharashtra
+135,Customer_135,1990-10-14,Male,Mumbai,Tamil Nadu
+136,Customer_136,2008-03-15,Female,Chennai,Tamil Nadu
+137,Customer_137,2005-07-18,Male,Kolkata,Tamil Nadu
+138,Customer_138,1974-12-09,Female,Delhi,West Bengal
+139,Customer_139,1978-07-02,Female,Kolkata,Tamil Nadu
+140,Customer_140,1960-05-15,Female,Chennai,Delhi
+141,Customer_141,2000-04-15,Male,Delhi,Karnataka
+142,Customer_142,1967-09-28,Female,Kolkata,Delhi
+143,Customer_143,1966-09-19,Female,Mumbai,Tamil Nadu
+144,Customer_144,1968-11-16,Female,Delhi,Karnataka
+145,Customer_145,1969-05-19,Female,Mumbai,Karnataka
+146,Customer_146,2005-06-11,Female,Chennai,Maharashtra
+147,Customer_147,1982-05-27,Female,Bangalore,Karnataka
+148,Customer_148,2014-09-08,Male,Delhi,Karnataka
+149,Customer_149,2003-06-29,Female,Bangalore,Karnataka
+150,Customer_150,1990-08-29,Male,Mumbai,West Bengal
+151,Customer_151,1989-04-14,Male,Bangalore,Karnataka
+152,Customer_152,2006-09-28,Female,Kolkata,Tamil Nadu
+153,Customer_153,2009-02-20,Male,Chennai,Maharashtra
+154,Customer_154,1989-10-22,Male,Delhi,Delhi
+155,Customer_155,1987-10-03,Female,Kolkata,Karnataka
+156,Customer_156,1993-12-14,Male,Chennai,Tamil Nadu
+157,Customer_157,2016-06-08,Male,Mumbai,Tamil Nadu
+158,Customer_158,1962-04-08,Female,Mumbai,West Bengal
+159,Customer_159,2010-03-03,Female,Kolkata,West Bengal
+160,Customer_160,1992-08-01,Female,Bangalore,Maharashtra
+161,Customer_161,1971-11-06,Female,Delhi,Karnataka
+162,Customer_162,2006-01-09,Female,Chennai,Delhi
+163,Customer_163,2001-04-22,Female,Chennai,Karnataka
+164,Customer_164,1989-08-12,Female,Bangalore,Karnataka
+165,Customer_165,1977-01-14,Female,Mumbai,West Bengal
+166,Customer_166,2012-12-10,Female,Chennai,West Bengal
+167,Customer_167,1965-11-14,Female,Mumbai,Karnataka
+168,Customer_168,1993-10-29,Female,Kolkata,Tamil Nadu
+169,Customer_169,1993-07-27,Male,Bangalore,Tamil Nadu
+170,Customer_170,2003-12-03,Female,Delhi,Karnataka
+171,Customer_171,2001-05-07,Male,Bangalore,Karnataka
+172,Customer_172,1972-05-31,Male,Delhi,West Bengal
+173,Customer_173,1968-02-22,Female,Kolkata,Tamil Nadu
+174,Customer_174,1982-02-02,Male,Mumbai,Karnataka
+175,Customer_175,1978-09-15,Female,Mumbai,Karnataka
+176,Customer_176,2011-01-18,Female,Kolkata,West Bengal
+177,Customer_177,1968-07-10,Female,Delhi,Tamil Nadu
+178,Customer_178,1983-09-12,Male,Kolkata,West Bengal
+179,Customer_179,2014-09-28,Male,Chennai,Karnataka
+180,Customer_180,1991-11-23,Male,Chennai,Karnataka
+181,Customer_181,1980-03-22,Female,Bangalore,Delhi
+182,Customer_182,2000-12-29,Female,Chennai,Karnataka
+183,Customer_183,1966-12-05,Female,Bangalore,Tamil Nadu
+184,Customer_184,1989-10-09,Female,Mumbai,Delhi
+185,Customer_185,1996-03-11,Male,Bangalore,Tamil Nadu
+186,Customer_186,1964-04-01,Female,Bangalore,Karnataka
+187,Customer_187,2006-01-01,Female,Bangalore,West Bengal
+188,Customer_188,1965-01-10,Female,Kolkata,Delhi
+189,Customer_189,1976-06-19,Male,Kolkata,Delhi
+190,Customer_190,2015-03-10,Male,Bangalore,Maharashtra
+191,Customer_191,1977-03-15,Female,Bangalore,Delhi
+192,Customer_192,2019-07-06,Male,Bangalore,Delhi
+193,Customer_193,1961-09-30,Female,Bangalore,Delhi
+194,Customer_194,1988-03-08,Female,Delhi,West Bengal
+195,Customer_195,2004-12-12,Female,Bangalore,Tamil Nadu
+196,Customer_196,1988-12-10,Female,Kolkata,West Bengal
+197,Customer_197,1966-06-08,Female,Mumbai,Delhi
+198,Customer_198,2018-04-14,Male,Chennai,West Bengal
+199,Customer_199,1974-07-07,Female,Kolkata,Tamil Nadu
+200,Customer_200,1995-10-06,Female,Chennai,Delhi
+201,Customer_201,1964-08-18,Male,Delhi,Maharashtra
+202,Customer_202,2015-07-03,Male,Kolkata,West Bengal
+203,Customer_203,1974-01-26,Female,Kolkata,Maharashtra
+204,Customer_204,2011-08-12,Female,Mumbai,Karnataka
+205,Customer_205,2013-07-23,Male,Chennai,Tamil Nadu
+206,Customer_206,1998-07-21,Female,Delhi,Maharashtra
+207,Customer_207,1960-01-24,Female,Chennai,Delhi
+208,Customer_208,1980-05-03,Male,Delhi,Karnataka
+209,Customer_209,2012-02-20,Female,Bangalore,Delhi
+210,Customer_210,1976-05-03,Female,Bangalore,Tamil Nadu
+211,Customer_211,2002-11-18,Female,Mumbai,Maharashtra
+212,Customer_212,2014-04-02,Female,Mumbai,Karnataka
+213,Customer_213,1987-02-08,Male,Bangalore,West Bengal
+214,Customer_214,1992-12-14,Male,Mumbai,Maharashtra
+215,Customer_215,1964-02-08,Male,Kolkata,Karnataka
+216,Customer_216,1978-05-25,Male,Delhi,Tamil Nadu
+217,Customer_217,1963-03-07,Female,Chennai,West Bengal
+218,Customer_218,2004-01-22,Male,Mumbai,Delhi
+219,Customer_219,1988-10-21,Female,Bangalore,Maharashtra
+220,Customer_220,1997-10-26,Male,Kolkata,Tamil Nadu
+221,Customer_221,2006-09-13,Male,Bangalore,Tamil Nadu
+222,Customer_222,2010-01-12,Female,Kolkata,West Bengal
+223,Customer_223,1987-05-08,Female,Chennai,Delhi
+224,Customer_224,2015-10-15,Female,Bangalore,Karnataka
+225,Customer_225,1982-03-17,Female,Mumbai,West Bengal
+226,Customer_226,1967-05-18,Female,Bangalore,Karnataka
+227,Customer_227,2010-04-06,Female,Bangalore,Delhi
+228,Customer_228,1997-01-21,Female,Bangalore,Maharashtra
+229,Customer_229,1985-05-13,Female,Delhi,Tamil Nadu
+230,Customer_230,1984-05-10,Male,Chennai,Maharashtra
+231,Customer_231,1987-09-02,Male,Delhi,Karnataka
+232,Customer_232,1984-03-02,Female,Mumbai,Karnataka
+233,Customer_233,1974-01-30,Female,Delhi,Delhi
+234,Customer_234,1981-04-30,Male,Delhi,Maharashtra
+235,Customer_235,1971-02-24,Male,Chennai,Maharashtra
+236,Customer_236,2004-06-11,Male,Mumbai,Karnataka
+237,Customer_237,2015-09-18,Female,Bangalore,West Bengal
+238,Customer_238,1988-06-17,Male,Bangalore,Karnataka
+239,Customer_239,1979-03-04,Male,Chennai,West Bengal
+240,Customer_240,1973-11-15,Male,Kolkata,Maharashtra
+241,Customer_241,1967-06-06,Female,Mumbai,Karnataka
+242,Customer_242,2005-07-05,Female,Mumbai,Delhi
+243,Customer_243,2002-12-17,Female,Mumbai,Karnataka
+244,Customer_244,1967-05-26,Female,Kolkata,Maharashtra
+245,Customer_245,2006-01-04,Female,Mumbai,Delhi
+246,Customer_246,2000-04-19,Male,Bangalore,West Bengal
+247,Customer_247,1965-08-01,Female,Mumbai,West Bengal
+248,Customer_248,1965-12-01,Female,Bangalore,Delhi
+249,Customer_249,2003-12-31,Male,Kolkata,Delhi
+250,Customer_250,1989-09-26,Male,Bangalore,Maharashtra
+251,Customer_251,2005-12-05,Female,Bangalore,Tamil Nadu
+252,Customer_252,1972-06-01,Female,Mumbai,Maharashtra
+253,Customer_253,1981-05-22,Male,Bangalore,Karnataka
+254,Customer_254,2018-04-30,Female,Bangalore,Tamil Nadu
+255,Customer_255,2019-10-01,Male,Chennai,Maharashtra
+256,Customer_256,1982-07-13,Female,Mumbai,Karnataka
+257,Customer_257,2005-05-03,Female,Kolkata,Karnataka
+258,Customer_258,1990-08-30,Male,Mumbai,Maharashtra
+259,Customer_259,1972-01-04,Female,Mumbai,Delhi
+260,Customer_260,2013-09-04,Female,Chennai,West Bengal
+261,Customer_261,2015-01-14,Female,Bangalore,Maharashtra
+262,Customer_262,2003-05-01,Male,Delhi,Maharashtra
+263,Customer_263,2013-09-05,Male,Mumbai,Maharashtra
+264,Customer_264,1962-09-18,Male,Delhi,Tamil Nadu
+265,Customer_265,1985-08-10,Male,Chennai,West Bengal
+266,Customer_266,1987-12-02,Female,Bangalore,West Bengal
+267,Customer_267,2001-11-28,Male,Delhi,West Bengal
+268,Customer_268,1966-09-19,Male,Bangalore,Karnataka
+269,Customer_269,1970-11-25,Female,Bangalore,Maharashtra
+270,Customer_270,1966-07-30,Male,Delhi,West Bengal
+271,Customer_271,1999-09-05,Female,Chennai,Karnataka
+272,Customer_272,1985-04-20,Male,Bangalore,Maharashtra
+273,Customer_273,1995-06-23,Female,Mumbai,Karnataka
+274,Customer_274,1992-04-18,Male,Kolkata,Tamil Nadu
+275,Customer_275,1977-12-10,Female,Kolkata,Tamil Nadu
+276,Customer_276,2017-09-11,Female,Kolkata,Delhi
+277,Customer_277,1978-06-16,Female,Chennai,Maharashtra
+278,Customer_278,1970-06-25,Male,Bangalore,Tamil Nadu
+279,Customer_279,2004-10-07,Male,Chennai,West Bengal
+280,Customer_280,1971-04-30,Female,Chennai,Delhi
+281,Customer_281,1971-12-08,Male,Kolkata,Maharashtra
+282,Customer_282,2009-03-23,Female,Kolkata,Tamil Nadu
+283,Customer_283,1999-07-04,Female,Bangalore,Maharashtra
+284,Customer_284,1974-04-17,Female,Chennai,Tamil Nadu
+285,Customer_285,1962-11-10,Male,Mumbai,West Bengal
+286,Customer_286,2015-07-18,Female,Bangalore,Karnataka
+287,Customer_287,1974-11-18,Female,Bangalore,Maharashtra
+288,Customer_288,1993-02-09,Female,Delhi,West Bengal
+289,Customer_289,1966-09-10,Female,Mumbai,West Bengal
+290,Customer_290,1984-07-06,Male,Kolkata,Tamil Nadu
+291,Customer_291,1974-05-08,Male,Chennai,Delhi
+292,Customer_292,1967-03-15,Female,Mumbai,Maharashtra
+293,Customer_293,2017-11-12,Female,Chennai,Karnataka
+294,Customer_294,2013-09-26,Female,Bangalore,West Bengal
+295,Customer_295,1978-10-16,Male,Delhi,West Bengal
+296,Customer_296,1985-08-17,Male,Chennai,Karnataka
+297,Customer_297,2011-03-09,Female,Delhi,Maharashtra
+298,Customer_298,2010-10-16,Female,Delhi,Maharashtra
+299,Customer_299,1985-12-31,Female,Delhi,Maharashtra
+300,Customer_300,1993-11-30,Male,Kolkata,Maharashtra
+301,Customer_301,1962-09-07,Male,Mumbai,Tamil Nadu
+302,Customer_302,2009-12-18,Female,Bangalore,Tamil Nadu
+303,Customer_303,1997-04-19,Female,Mumbai,Karnataka
+304,Customer_304,1986-03-08,Female,Kolkata,West Bengal
+305,Customer_305,1970-01-13,Male,Bangalore,Delhi
+306,Customer_306,2020-01-16,Male,Kolkata,Maharashtra
+307,Customer_307,2014-03-06,Male,Delhi,Delhi
+308,Customer_308,2009-07-03,Female,Kolkata,Tamil Nadu
+309,Customer_309,1993-07-28,Female,Mumbai,Tamil Nadu
+310,Customer_310,1984-06-04,Female,Delhi,Karnataka
+311,Customer_311,1994-12-29,Male,Kolkata,Maharashtra
+312,Customer_312,1997-10-28,Female,Kolkata,Maharashtra
+313,Customer_313,1993-06-30,Female,Kolkata,Tamil Nadu
+314,Customer_314,1974-11-21,Female,Mumbai,West Bengal
+315,Customer_315,1977-01-03,Female,Mumbai,Maharashtra
+316,Customer_316,1997-07-18,Female,Kolkata,Tamil Nadu
+317,Customer_317,1960-11-22,Female,Mumbai,Karnataka
+318,Customer_318,1992-02-11,Female,Chennai,West Bengal
+319,Customer_319,1963-11-28,Female,Mumbai,Tamil Nadu
+320,Customer_320,2005-02-11,Male,Delhi,Karnataka
+321,Customer_321,2007-08-21,Female,Kolkata,West Bengal
+322,Customer_322,2007-05-28,Male,Mumbai,Maharashtra
+323,Customer_323,1996-01-10,Female,Kolkata,Tamil Nadu
+324,Customer_324,1994-06-17,Female,Bangalore,Delhi
+325,Customer_325,1987-03-29,Female,Chennai,Maharashtra
+326,Customer_326,1975-08-29,Male,Bangalore,Karnataka
+327,Customer_327,1983-09-10,Male,Kolkata,Delhi
+328,Customer_328,1990-03-31,Male,Bangalore,Karnataka
+329,Customer_329,1996-02-25,Female,Chennai,West Bengal
+330,Customer_330,1993-04-29,Male,Chennai,West Bengal
+331,Customer_331,1961-02-05,Female,Mumbai,Karnataka
+332,Customer_332,1999-08-13,Male,Bangalore,Delhi
+333,Customer_333,2003-07-25,Male,Kolkata,Tamil Nadu
+334,Customer_334,2003-11-17,Female,Mumbai,Karnataka
+335,Customer_335,1961-01-02,Female,Chennai,West Bengal
+336,Customer_336,2000-11-12,Male,Chennai,Tamil Nadu
+337,Customer_337,2010-04-22,Male,Chennai,Karnataka
+338,Customer_338,2001-01-09,Female,Chennai,West Bengal
+339,Customer_339,1984-02-10,Female,Delhi,Maharashtra
+340,Customer_340,1982-02-14,Male,Kolkata,West Bengal
+341,Customer_341,1960-04-25,Female,Bangalore,West Bengal
+342,Customer_342,1963-01-24,Female,Delhi,West Bengal
+343,Customer_343,2017-10-19,Male,Kolkata,West Bengal
+344,Customer_344,1987-02-07,Female,Chennai,Maharashtra
+345,Customer_345,1985-01-30,Female,Bangalore,Delhi
+346,Customer_346,1997-06-15,Female,Bangalore,West Bengal
+347,Customer_347,2012-06-15,Female,Kolkata,Delhi
+348,Customer_348,1999-08-06,Female,Kolkata,West Bengal
+349,Customer_349,1972-03-11,Male,Delhi,Tamil Nadu
+350,Customer_350,2003-12-13,Female,Kolkata,Tamil Nadu
+351,Customer_351,1965-12-13,Male,Mumbai,Karnataka
+352,Customer_352,1996-12-06,Female,Chennai,Tamil Nadu
+353,Customer_353,1990-10-13,Male,Delhi,West Bengal
+354,Customer_354,1969-12-10,Male,Chennai,Maharashtra
+355,Customer_355,2014-10-11,Female,Bangalore,Karnataka
+356,Customer_356,2016-11-26,Female,Delhi,Tamil Nadu
+357,Customer_357,1988-05-10,Male,Kolkata,Maharashtra
+358,Customer_358,2013-10-18,Female,Mumbai,Tamil Nadu
+359,Customer_359,1963-06-26,Male,Kolkata,Karnataka
+360,Customer_360,2004-10-25,Female,Chennai,Karnataka
+361,Customer_361,1993-12-06,Female,Bangalore,Tamil Nadu
+362,Customer_362,1982-11-13,Male,Chennai,Maharashtra
+363,Customer_363,1967-09-24,Male,Delhi,Karnataka
+364,Customer_364,2010-02-02,Male,Chennai,West Bengal
+365,Customer_365,1992-11-26,Female,Chennai,West Bengal
+366,Customer_366,1964-07-02,Male,Delhi,Karnataka
+367,Customer_367,2010-06-24,Male,Bangalore,West Bengal
+368,Customer_368,2000-01-05,Female,Bangalore,Maharashtra
+369,Customer_369,1970-11-17,Female,Kolkata,Delhi
+370,Customer_370,2017-07-13,Male,Kolkata,Maharashtra
+371,Customer_371,1978-01-25,Male,Kolkata,Delhi
+372,Customer_372,1963-08-26,Male,Bangalore,Maharashtra
+373,Customer_373,1977-05-22,Male,Chennai,Maharashtra
+374,Customer_374,1992-08-09,Male,Bangalore,West Bengal
+375,Customer_375,1972-10-21,Female,Chennai,West Bengal
+376,Customer_376,1974-04-14,Female,Mumbai,Tamil Nadu
+377,Customer_377,1994-10-31,Female,Chennai,Delhi
+378,Customer_378,1992-12-10,Female,Bangalore,Maharashtra
+379,Customer_379,1989-04-06,Female,Mumbai,Maharashtra
+380,Customer_380,2001-03-30,Male,Kolkata,West Bengal
+381,Customer_381,2005-03-06,Female,Delhi,Karnataka
+382,Customer_382,2016-12-08,Male,Mumbai,Maharashtra
+383,Customer_383,2001-02-25,Male,Kolkata,Maharashtra
+384,Customer_384,2015-02-21,Female,Delhi,Maharashtra
+385,Customer_385,2004-05-12,Female,Mumbai,Karnataka
+386,Customer_386,1963-05-04,Male,Mumbai,Karnataka
+387,Customer_387,1990-08-23,Male,Chennai,Karnataka
+388,Customer_388,1967-01-04,Male,Bangalore,West Bengal
+389,Customer_389,2003-04-15,Female,Delhi,West Bengal
+390,Customer_390,1979-12-04,Female,Chennai,Delhi
+391,Customer_391,1976-10-11,Male,Delhi,Tamil Nadu
+392,Customer_392,2007-07-31,Male,Delhi,Tamil Nadu
+393,Customer_393,1997-12-24,Male,Delhi,Delhi
+394,Customer_394,2003-02-02,Female,Delhi,Maharashtra
+395,Customer_395,2008-11-05,Male,Bangalore,Tamil Nadu
+396,Customer_396,1977-04-04,Male,Kolkata,Tamil Nadu
+397,Customer_397,2010-12-27,Female,Kolkata,Delhi
+398,Customer_398,1993-04-04,Male,Mumbai,Karnataka
+399,Customer_399,2003-10-06,Female,Chennai,Delhi
+400,Customer_400,2016-05-15,Male,Delhi,Maharashtra
+401,Customer_401,2015-08-21,Male,Chennai,Maharashtra
+402,Customer_402,1982-01-18,Male,Mumbai,West Bengal
+403,Customer_403,1999-07-19,Female,Chennai,Delhi
+404,Customer_404,1972-12-07,Male,Bangalore,Delhi
+405,Customer_405,1994-03-26,Female,Mumbai,Tamil Nadu
+406,Customer_406,1960-04-23,Female,Mumbai,West Bengal
+407,Customer_407,1964-01-22,Male,Chennai,Tamil Nadu
+408,Customer_408,1967-05-18,Male,Bangalore,Karnataka
+409,Customer_409,1975-12-11,Female,Chennai,West Bengal
+410,Customer_410,1997-10-28,Female,Mumbai,West Bengal
+411,Customer_411,1996-09-24,Male,Chennai,Delhi
+412,Customer_412,1975-03-16,Female,Mumbai,West Bengal
+413,Customer_413,2014-04-27,Female,Bangalore,West Bengal
+414,Customer_414,1987-08-20,Female,Bangalore,Tamil Nadu
+415,Customer_415,1967-08-19,Male,Chennai,Tamil Nadu
+416,Customer_416,2014-08-30,Male,Delhi,Karnataka
+417,Customer_417,1990-08-19,Female,Delhi,Tamil Nadu
+418,Customer_418,2019-09-12,Male,Mumbai,West Bengal
+419,Customer_419,1991-09-27,Male,Delhi,West Bengal
+420,Customer_420,2000-12-27,Male,Chennai,Delhi
+421,Customer_421,1989-11-10,Male,Kolkata,Karnataka
+422,Customer_422,1984-11-28,Male,Delhi,Tamil Nadu
+423,Customer_423,2006-09-02,Male,Mumbai,Tamil Nadu
+424,Customer_424,1987-11-18,Male,Bangalore,West Bengal
+425,Customer_425,1966-03-12,Male,Mumbai,Tamil Nadu
+426,Customer_426,2000-09-13,Male,Chennai,Karnataka
+427,Customer_427,2007-05-03,Female,Delhi,Tamil Nadu
+428,Customer_428,1994-06-08,Female,Delhi,Maharashtra
+429,Customer_429,1983-05-16,Female,Bangalore,Tamil Nadu
+430,Customer_430,2016-06-02,Male,Bangalore,Karnataka
+431,Customer_431,1970-07-19,Male,Chennai,Tamil Nadu
+432,Customer_432,2015-11-29,Male,Bangalore,Tamil Nadu
+433,Customer_433,1965-02-02,Male,Mumbai,West Bengal
+434,Customer_434,1961-05-10,Male,Kolkata,Karnataka
+435,Customer_435,1997-09-05,Male,Kolkata,Tamil Nadu
+436,Customer_436,1975-06-19,Male,Kolkata,Tamil Nadu
+437,Customer_437,1977-04-01,Female,Chennai,Maharashtra
+438,Customer_438,1989-01-12,Female,Kolkata,West Bengal
+439,Customer_439,1988-10-15,Female,Mumbai,Karnataka
+440,Customer_440,1965-06-09,Male,Bangalore,Tamil Nadu
+441,Customer_441,2013-11-26,Male,Chennai,West Bengal
+442,Customer_442,1960-02-04,Male,Kolkata,Delhi
+443,Customer_443,2006-08-04,Female,Chennai,Tamil Nadu
+444,Customer_444,1994-10-19,Male,Bangalore,Tamil Nadu
+445,Customer_445,1977-09-15,Male,Bangalore,Maharashtra
+446,Customer_446,1993-09-13,Male,Delhi,Maharashtra
+447,Customer_447,1999-06-08,Female,Chennai,Tamil Nadu
+448,Customer_448,1986-11-07,Male,Kolkata,Delhi
+449,Customer_449,1982-11-20,Male,Bangalore,Tamil Nadu
+450,Customer_450,1963-11-24,Female,Delhi,Maharashtra
+451,Customer_451,1988-05-06,Female,Mumbai,West Bengal
+452,Customer_452,1994-08-23,Female,Kolkata,Tamil Nadu
+453,Customer_453,2010-06-23,Female,Kolkata,Karnataka
+454,Customer_454,1995-05-28,Female,Bangalore,Delhi
+455,Customer_455,2013-11-19,Male,Bangalore,Delhi
+456,Customer_456,1998-01-16,Male,Kolkata,West Bengal
+457,Customer_457,1966-05-14,Female,Bangalore,Maharashtra
+458,Customer_458,1978-09-29,Male,Mumbai,West Bengal
+459,Customer_459,2010-04-15,Male,Kolkata,Maharashtra
+460,Customer_460,2001-01-02,Male,Delhi,Delhi
+461,Customer_461,2007-08-16,Male,Delhi,Tamil Nadu
+462,Customer_462,1981-04-01,Female,Bangalore,Delhi
+463,Customer_463,1991-03-16,Female,Bangalore,Tamil Nadu
+464,Customer_464,1968-04-26,Male,Bangalore,Karnataka
+465,Customer_465,1965-08-16,Male,Kolkata,Maharashtra
+466,Customer_466,2008-10-10,Male,Chennai,Maharashtra
+467,Customer_467,1962-08-13,Female,Bangalore,West Bengal
+468,Customer_468,1989-09-17,Male,Delhi,West Bengal
+469,Customer_469,1979-03-22,Male,Bangalore,Tamil Nadu
+470,Customer_470,2018-04-09,Male,Bangalore,West Bengal
+471,Customer_471,1967-11-22,Male,Delhi,Tamil Nadu
+472,Customer_472,2004-12-26,Male,Mumbai,Maharashtra
+473,Customer_473,1974-01-26,Female,Mumbai,Maharashtra
+474,Customer_474,1991-10-05,Male,Kolkata,Maharashtra
+475,Customer_475,2008-11-20,Male,Mumbai,Karnataka
+476,Customer_476,2009-03-24,Male,Chennai,Delhi
+477,Customer_477,1999-06-11,Female,Mumbai,West Bengal
+478,Customer_478,1962-03-08,Female,Mumbai,Karnataka
+479,Customer_479,2012-01-12,Male,Delhi,West Bengal
+480,Customer_480,1994-04-28,Female,Kolkata,Tamil Nadu
+481,Customer_481,2012-08-29,Male,Delhi,Tamil Nadu
+482,Customer_482,2001-08-23,Male,Delhi,Delhi
+483,Customer_483,1967-10-14,Male,Kolkata,West Bengal
+484,Customer_484,1965-04-10,Female,Chennai,Maharashtra
+485,Customer_485,2012-12-20,Female,Chennai,West Bengal
+486,Customer_486,1976-05-26,Male,Delhi,Tamil Nadu
+487,Customer_487,2009-12-22,Male,Kolkata,Karnataka
+488,Customer_488,1971-11-18,Male,Mumbai,West Bengal
+489,Customer_489,1997-10-31,Female,Bangalore,Delhi
+490,Customer_490,1971-03-18,Male,Chennai,Tamil Nadu
+491,Customer_491,1965-10-15,Male,Delhi,Karnataka
+492,Customer_492,2006-11-23,Female,Chennai,Delhi
+493,Customer_493,2011-09-17,Female,Bangalore,Maharashtra
+494,Customer_494,1984-04-15,Male,Delhi,Tamil Nadu
+495,Customer_495,2015-12-03,Male,Mumbai,Delhi
+496,Customer_496,1976-05-03,Female,Bangalore,Karnataka
+497,Customer_497,1967-11-29,Male,Delhi,Karnataka
+498,Customer_498,2003-08-21,Male,Chennai,Maharashtra
+499,Customer_499,1992-04-06,Male,Chennai,Karnataka
+500,Customer_500,1970-02-27,Female,Delhi,West Bengal
